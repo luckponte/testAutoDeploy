@@ -1,0 +1,2 @@
+46.0.0.1 - - [21/Jul/2017:12:32:41 +0000] "GET / HTTP/1.1" 200 612 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "-"
+46.0.0.1 - - [21/Jul/2017:12:32:41 +0000] "GET /favicon.ico HTTP/1.1" 404 571 "http://46.0.0.1/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "-"
